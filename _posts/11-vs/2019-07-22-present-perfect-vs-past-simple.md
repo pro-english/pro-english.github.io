@@ -59,3 +59,27 @@ He lost his key.
   b : Well, it wasn't me. I didn't do it. (not hasn't been ... haven't done)
   ````
 
+- Не используй **Present Perfect**, когда указывается момент в прошлом (например, **yesterday** / **ten minutes ago** / **in 2005** / **when I was a child**)
+
+  ````
+  It was very cold yesterday.  (not has been)
+  Did you eat a lot of sweets when you were a child? (not have you eaten)
+  ````
+
+- Используй **Past Simple**, когда спрашивается `When ... ?` или `What time ... ?`
+
+  ````
+  When did your friends arrive? (not have ... arrived)
+  What time did you finish work?
+  ````
+
+
+
+TODO
+
+
+
+
+
+Use the past to ask When ... ? or What time ... ?:
+
