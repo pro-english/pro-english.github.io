@@ -8,7 +8,7 @@ permalink: email-structure
 
 # Professional Emails
 
-## Какие существуют части?
+## What is a structure?
 
 - Salutation
 
@@ -118,6 +118,62 @@ A few formal closings that are acceptable in most circumstances:
 
 ### Example 1
 
+#### Formal email
+
+````
+Dear colleagues,
+
+The next meeting of the Board will be held at our head office in Moscow on Friday, November 2nd at 9:00am.
+
+I would be very grateful if you would let my assistant, Rachel, know as soon as possible whether you will be able to attend. It is essential that we have a minimum of 8 members attend the meeting since we need to vote on several issues which affect the future development of the company.
+
+As usual, my assistant will make all accomodation hotel arrangements. Please send flight details when you reply so she can inform the hotel of approximate arrival times.
+
+The agenda will be distributed three weeks before the meeting.
+
+I look forward to seeing you on November 2nd.
+
+Best regards,
+
+Sergey Ivankov
+
+````
+
+#### Informal email
+
+````
+Hi everybody,
+
+Sorry for being a bit late with the details of the videoconference. I was snowed under with work on the proposed new marketing strategy. It is shaping up well now and I can’t wait to hear your constructive criticism! Honest!!!
+
+I would like to schedule the videoconference for next Tuesday at 2:00pm EST. Does anybody have a problem with that? Just give me a ring today if it’s not ok.
+
+We will need to cover the following points:
+- Design of new logo
+- Marketing online strategy 
+
+See you all on Tuesday.
+
+Cheers,
+Tiffany
+````
+
+#### Formal and informal phrases
+
+1. I hope this is acceptable for all of you  -> Does anybody have a problem with that?
+2. I was extremely busy -> I was snowed under 
+3. I apologize for the delay -> Sorry for being a bit late 
+4. I welcome your comments and suggestions -> I can’t wait to hear your constructive criticism! 
+5. Best regards -> Cheers
+6. Contact me by telephone -> give me a ring
+7. I look forward to meeting you all -> See you all on Tuesday
+
+8. It is developing well -> It is shaping up well 
+
+
+
+### Example 2
+
 ````
 Hi Jackie,
 
@@ -133,7 +189,7 @@ Monica
 
 
 
-### Example 2
+### Example 3
 
 ````
 Hi Emma,
@@ -147,7 +203,7 @@ Harry
 
 
 
-### Lesson 1
+### Lesson 4
 
 ````
 Hello Jhon,
@@ -169,7 +225,7 @@ Monica
 
 
 
-### Lesson 2
+### Lesson 5
 
 ````
 Hi Jhon,
@@ -189,7 +245,7 @@ Monica
 
 
 
-### Lesson 3
+### Lesson 6
 
 ````
 Hi Jhon,
