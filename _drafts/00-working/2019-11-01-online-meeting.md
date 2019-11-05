@@ -12,5 +12,5 @@
 
 ## Goodbye
 
-- See on you on Tuesday!
+- See you on Tuesday!
 - 
