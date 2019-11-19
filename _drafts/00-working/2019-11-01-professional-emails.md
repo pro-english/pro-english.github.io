@@ -160,7 +160,7 @@ Best, Andrey
 
 ## Email 2 - Request a report on November 8 but now you need this Friday
 
-````java
+````
 Hi Evgenia,
 
 I hope you are having a great day!
@@ -178,7 +178,7 @@ Thank you, Yuliya.
 
 **Request**
 
-````java
+````
 Hi Yulia!
 
 I am responding to your email and unfortunately I am swamped today.
@@ -187,3 +187,82 @@ There is just no way I am available to prepare the requested report by tomorrow.
     
 Best, Evgenia.   
 ````
+
+## Conversation 1
+
+
+
+![img](./_img/conversation1.png)
+
+
+
+## Conversation 2
+
+![img](./_img/conversation2.png)
+
+### Email 1
+
+````
+Hi Serzh,
+
+I hope you are well. I know we have our monthly investors meeting coming up. Unfortunately, I am away on business and left my agenda in the office.
+
+Could you send me the day, time and place of the meeting?
+
+Also, I can't remember if I was supposed to present a workshop.
+I believe I was asked to head up-lead the personal finance workshop. I’m not sure though and I would appreciate it if you could confirm that.
+
+See you soon,
+
+Susan 
+````
+
+### Email 2
+
+````
+Hi Susan,
+
+I hope this email finds you well.
+
+The meeting will be on Saturday, December 16 in Johnson Conference Center. The meeting starts at 5:00pm and the last speaker goes on at 8:00pm.
+
+Regarding (In reference to) finance workshop, Hannah King will lead it at 6:30pm.
+From the agenda you should lead the opening and closing conference:
+- 5:00pm - 5:15pm - Review minutes from Last Meeting
+- At 8:00pm - Closing Remarks
+
+Please let me know if you have any other questions.
+
+See you soon,
+Serzh
+````
+
+
+
+## Rewriting
+
+![img](./_img/rewriting1.png)
+
+### Rewriting
+
+````
+Title: Summary of meeting with Polish customer
+ 
+Hi Liona,
+ 
+I hope you are well!
+ 
+We had a very long meeting with Polish customers yesterday. The meeting was good,
+but very slow. They wanted to discuss every little point.
+ 
+Also, you were right about the schedule. They took away the list of deadlines and they are going to consider it and make their suggestions.
+ 
+Mr. Bujak will get an answer by the end of the week. 
+Will get back to us by the end of the week. (Will provide an answer/Will provide a response)
+
+Please let me know if you have any questions or if you need additional information.
+
+See you!
+Simon
+````
+
