@@ -1,3 +1,97 @@
+# 28/11/2018
+
+**Emailing Phrases- Tenses and Verb Forms Review** 
+
+Put the verbs below into the correct form in the gaps which are given, adding “to” or the correct form of “be” or “have” if you need to. Some don’t need to be changed to be correct. 
+
+1 I _’m writing______________________________(write) to you about the meeting next week. 
+
+2 Please phone us if you ______get___________________________________(get) lost. 
+
+3 Here’s the information that you ________________asked____________________(ask) for. 
+
+4 I _’ve attached___________am attaching________attached__________________________(attach) the excel document. XL
+
+5 Any assistance you could give me with this matter __would_________(be) greatly appreciated. 
+
+6 I _’ll complete_____am going to _______________________(complete) it next week, if that is okay with you. 
+
+7 I’m looking forward to ____hearing______________________________(hear) from you soon.
+
+ 8 I regret _________to inform_____________________________________(inform) you that… 
+
+9 If you have any further questions, please _____do not hesitate__________________(not hesitate) to contact me at any time. 
+
+10 I _____________________don’t have___________________________________ (not have) time to reply in detail at the moment, but I thought that I should let you know… 
+
+11 I’m afraid I ______will be attending I’m attending ___________________(attend) a conference overseas on that day. 
+
+12 I ___am arranging________________(arrange) to visit one of your colleagues on Wed 25th March. 
+
+13 It __________was__________________________(be) a pleasure to meet you yesterday. 
+
+14 I ______would be__________________________(be) very glad to fit you in any time after that. 
+
+15 I ____________will do_________________________________(do) it as soon as possible. 
+
+16 How about _________coming__________________(come) for a drink with us on Tuesday? 
+
+17 I’m writing _______to enquire_____________________________________(enquire) about… 
+
+18 If you have any more questions, please _____let____________________(let) me know. 
+
+19 I _’m going _____________(go) to a meeting in a minute but I thought I’d better let you know… 
+
+20 I’m sorry that it ____took____________________(take) me so long to reply to your email. 
+
+21 It _______was_________________________________(be) great to meet you yesterday. 
+
+22 I ______________would____________________(like) to ask for some information about… 
+
+23 I ____________’ll do_______________________________________(do) it immediately. 
+
+24 I’m looking forward to ___receiving__________________________(receive) your comments. 
+
+Imperative 
+
+Could you please
+
+25 _____________Give_________________________________(give) my regards to John. 
+
+26 I’m sorry _____________to tell____________________________________(tell) you that… 
+
+27 I __________________________I’m visiting_____________________________________(visit) one of your colleagues on Wed 25th March, so I can see you then. 
+
+28 Long time no see. How_____have you been_____________________________________(you be)? 
+
+29 You also ______________asked________________________________(ask) me about… 
+
+30 I ____________’llget______________________________(get) back to you by Tuesday. 
+
+31 I _________________would love___________________________________(love) come, but… 
+
+32 Looking forward to __hearing_____________________________________ (hear) from you. 
+
+33 The amount that you sent does not seem ______to be___________________(be) correct. 
+
+34 If anything about that isn’t clear, please ______drop_________________(drop) me a line. 
+
+35 I ____’m writing___________________(write) to you in connection with the meeting next week. 
+
+36 Thank you for your email, which I ______have just received______________________(just receive). 
+
+37 Wednesday ___________would be__________________________(be) good, if that suits you. 
+
+38 I _____________’ll finish_________________________________(finish) it as soon as I can. 
+
+39 Please _________pass give___________________________(pass) my best wishes onto John.
+
+ 40 I’m looking forward to _________seeing______________________________(see) you then. 
+
+41 This is just a quick note _______to say___________________________________(say)…
+
+
+
 # 05/11/2019
 
 ## Please check my homework
