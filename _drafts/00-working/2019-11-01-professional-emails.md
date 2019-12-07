@@ -1,3 +1,45 @@
+# 05/12/2019 - CHECKED
+
+1. You can  /  **Could you** / You will / You 
+
+ please arrange accommodation for me near to your offices?  
+
+2. We  __________ if you could send us the confirmation as soon as possible. 
+
+will be grateful / **would be grateful** /  would be happy /  will be glad
+
+3. Unfortunately we  _________to change the contract.
+
+can't / cannot / **are unable** /  unable
+
+4. If possible I  _______ to make an appointment to see you to discuss the new contract for next year. 
+
+want / **would like** / would / like
+
+5. I  ______________at the sales meeting next week. 
+
+ look forward to / look forward for seeing / look to / **look forward to seeing you**
+
+6. Feel to _________contact me if you need any more information. 
+
+Glad  / **free** / fine / liberated 
+
+7. I have placed an order but need some more details ___________shipment.  
+
+For / on / **regarding** / concerned 
+
+8. Do not __________ contact me if you need any more information. 
+
+Wait to / stop / appreciate / **hesitate to** / hesitate  
+
+9. Please  ____ your decision as soon as possible. 
+
+make me / **let me know**  / give / let me 
+
+10. We look forward to a successful working relationship  ___________
+
+in the future / **on future** / at the future / to future .
+
 # 28/11/2018
 
 **Emailing Phrases- Tenses and Verb Forms Review** 
